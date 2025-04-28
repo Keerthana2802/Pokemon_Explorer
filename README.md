@@ -20,10 +20,10 @@ Deployed Live at:
 ## 📦 How to Run Locally
 
 1. **Clone the repository:**
-   ```
-   git clone https://github.com/your-username/Pokemon_Explorer.git
-   cd Pokemon_Explorer
-   ```
+  ```
+  git clone https://github.com/your-username/Pokemon_Explorer.git
+  cd Pokemon_Explorer
+  ```
 2. **Install dependencies:**
   ```
   npm install
